@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\netcoreapp3.1\SingleTonPattern.exe
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\netcoreapp3.1\SingleTonPattern.deps.json
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\netcoreapp3.1\SingleTonPattern.runtimeconfig.json
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\netcoreapp3.1\SingleTonPattern.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\netcoreapp3.1\SingleTonPattern.dll
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\bin\Debug\netcoreapp3.1\SingleTonPattern.pdb
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\netcoreapp3.1\SingleTonPattern.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\netcoreapp3.1\SingleTonPattern.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\netcoreapp3.1\SingleTonPattern.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\netcoreapp3.1\SingleTonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\netcoreapp3.1\SingleTonPattern.dll
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\netcoreapp3.1\SingleTonPattern.pdb
+C:\Users\Admin\source\repos\SingleTonPattern\SingleTonPattern\obj\Debug\netcoreapp3.1\SingleTonPattern.genruntimeconfig.cache
